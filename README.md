@@ -51,7 +51,7 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 Below is the histogram chart for salaries for employees:
 
 
-![salaries_histogram](Images/salaries_histogram.PNG)
+![salaries_histogram](Images/salaries_histogram.png)
 
 
 ## Average salaries by titles
@@ -60,4 +60,4 @@ Below is the histogram chart for salaries for employees:
 Below is the bar chart for average salaries for each titles:
 
 
-![avg_salaries_by_tite](Images/avg_salaries_by_tite.PNG)
+![avg_salaries_by_tite](Images/avg_salaries_by_tite.png)
