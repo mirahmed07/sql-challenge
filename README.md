@@ -24,7 +24,7 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 8. psycopg2
 9. pgAdmin v4.29
 
-##ER Diagram
+## ER Diagram
 
 
 ![ERD](Images/QuickDBD_Free_Diagram.png)
@@ -41,4 +41,4 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 7. Finally, to run the python (SQLAlchemy) part of the assignment, please load file "Bonus_SQL.ipynb" in Jupyter Notebook and execute it.
 
 
-![import_wizard](Images/import_wizard.png)
+![import_wizard](Images/import_wizard.PNG)
