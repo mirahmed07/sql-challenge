@@ -44,3 +44,20 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 
 
 ![import_wizard](Images/import_wizard.PNG)
+
+
+## Salaries histogram
+
+Below is the histogram chart for salaries for employees:
+
+
+![salaries_histogram](Images/salaries_histogram.PNG)
+
+
+## Average salaries by titles
+
+
+Below is the bar chart for average salaries for each titles:
+
+
+![avg_salaries_by_tite](Images/avg_salaries_by_tite.PNG)
