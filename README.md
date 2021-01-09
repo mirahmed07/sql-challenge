@@ -40,5 +40,7 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 6. Execute the file "Queries.sql"
 7. Finally, to run the python (SQLAlchemy) part of the assignment, please load file "Bonus_SQL.ipynb" in Jupyter Notebook and execute it.
 
+## CSV import wizard
+
 
 ![import_wizard](Images/import_wizard.PNG)

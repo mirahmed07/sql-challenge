@@ -1,9 +1,9 @@
---1. List the following details of each employee: employee number, last name, first name, gender, and salary.
+--1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 SELECT employees.emp_no, 
 employees.last_name,
 employees.first_name,
-employees.gender,
+employees.sex,
 salaries.salary
 FROM employees
 LEFT JOIN salaries
@@ -79,7 +79,7 @@ LEFT JOIN dept_emp
 ON employees.emp_no=dept_emp.emp_no
 INNER JOIN departments 
 ON departments.dept_no=dept_emp.dept_no
-WHERE departments.dept_name in ('Sales', 'Development');
+WHERE departments.dept_name IN ('Sales', 'Development');
 
 -- 8. In descending order, list the frequency count of employee last names, 
 --i.e., how many employees share each last name.
