@@ -35,8 +35,8 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 1. Start PostgreSQL through pgAdmin
 2. Create a DB called "EmployeeDB"
 3. Open the query Tool for the DB you just created
-4. Execute the file "Table_Creation.sql" or "QuickDBD-Free Diagram.sql" to create the DB
-5. Import the CSV files to their each respective tables through Import wizard (check screenshot below) or by executing "csv_import_query.sql" (for this you have to change security settings under properties of each files and provide access to everyone)
+4. Execute the file "QuickDBD-Free Diagram.sql" to create the DB schema
+5. Import the CSV files to their each respective tables through Import wizard (Preferred-check screenshot below) or by executing "csv_import_query.sql" (for this you have to change security settings under properties of each files and provide access to everyone)
 6. Execute the file "Queries.sql"
 7. Finally, to run the python (SQLAlchemy) part of the assignment, please load file "Bonus_SQL.ipynb" in Jupyter Notebook and execute it.
 
