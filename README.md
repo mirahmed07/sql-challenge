@@ -7,9 +7,9 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 This projects provides the answer to the "Employee Database: A Mystery in Two Parts" assignment:
 
-* DB ER Diagram  - is provided in file "EDR.png"
-* Queries - are provided in file "Queries.sql"
-* Bonus question - is provided in file "Bonus_SQL.ipynb"
+* DB ER Diagram is provided in file "QuickDBD_Free_Diagram.png".
+* Queries are provided in file "Queries.sql".
+* Bonus part is provided in file "Bonus_SQL.ipynb".
 
 
 ### Prerequisites
@@ -32,13 +32,13 @@ This projects provides the answer to the "Employee Database: A Mystery in Two Pa
 
 ## Running the tests
 
-1. Start PostgreSQL through pgAdmin
-2. Create a DB called "EmployeeDB"
-3. Open the query Tool for the DB you just created
-4. Execute the file "QuickDBD-Free Diagram.sql" to create the DB schema
+1. Start PostgreSQL through pgAdmin.
+2. Create a DB called "EmployeeDB".
+3. Open the query Tool for the DB you just created.
+4. Execute the file "QuickDBD-Free Diagram.sql" to create the DB schema.
 5. Import the CSV files to their each respective tables through Import wizard (Preferred-check screenshot below) in this sequence - titles, departments, employees, dept_emp, dept_manager, salaries
-    * **or** by executing "csv_import_query.sql" (for this you have to change security settings under properties of each files and provide access to everyone)
-6. Execute the file "Queries.sql"
+    * **or** by executing "csv_import_query.sql" (for this you have to change security settings under properties of each files and provide access to everyone).
+6. Execute the file "Queries.sql".
 7. Finally, to run the python (SQLAlchemy) part of the assignment, please load file "Bonus_SQL.ipynb" in Jupyter Notebook and execute it.
 
 ## CSV import wizard
